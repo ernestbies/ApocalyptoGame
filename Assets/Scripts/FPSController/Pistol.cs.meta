@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5a3f4f5dcbe128046b2e77a1333e247b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - idlePistol: {instanceID: 0}
+  - shotPistol: {instanceID: 0}
+  - shotSound: {fileID: 8300000, guid: 0d017db9f226aca47b02cc32ce5c6f62, type: 3}
+  - reloadSound: {fileID: 8300000, guid: a30d0e30946e74a49b7bbdbdcf27a58d, type: 3}
+  - emptyGunSound: {fileID: 8300000, guid: 56d73ba8c33291b4a84324891c6338d6, type: 3}
+  - ammoText: {instanceID: 0}
+  - bulletHole: {fileID: 8052293495661248115, guid: 95b8a8c06547dd1438906338f934a0cf,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
